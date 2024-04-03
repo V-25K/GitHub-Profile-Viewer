@@ -1,2 +1,16 @@
 # GitHub Profile Viewer
- This web application lets users search for GitHub profiles using a GitHub username. It fetches profile data from the GitHub API and displays information such as name, username (login), bio, profile picture, followers, and following. If the profile doesn't exist, it shows an error message.  Features:  Search for GitHub profiles by GitHub username. Display user profile information. Error handling for non-existent profiles. Technologies:  HTML, CSS, JavaScript. How to Use:  Enter a GitHub username. Click "Search" or press Enter. View profile information or error message.
+ This web app enables users to search GitHub profiles using usernames. It utilizes the GitHub API to retrieve profile data, including name, login (username), bio, profile picture, followers, and following. It gracefully handles non-existent profiles by displaying an error message.
+
+Features:
+
+Search for GitHub profiles by username.
+Display user profile information.
+Error handling for non-existent profiles.
+Technologies:
+
+HTML, CSS, JavaScript.
+How to Use:
+
+Enter a GitHub username.
+Click "Search" or press Enter.
+View profile information or error message.
